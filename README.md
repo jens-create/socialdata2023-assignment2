@@ -4,6 +4,12 @@ Assignment 2 in Socialdata
 
 Set up ruby and jekyll according to Sune's guide.
 
+First time run:
+
+```
+bundle install
+```
+
 
 To run the webpage locally with live-updates when developing change the following in the `_config.yml` file. You need to change the `baseurl` to `""`. Remember to switch back when pushing to github.
 
@@ -22,3 +28,5 @@ To run the webpage locally with live-updates (i.e. you make a change -> it will 
 ```
 bundle exec jekyll serve --livereload
 ```
+
+To make changes go to `index.markdown`
