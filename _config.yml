@@ -22,8 +22,12 @@ title: San Francisco Data
 author: s183568, s18XXXX, s18XXXX
 page_title: A visual story about the San Francisco crime data.
 description: A webpage for the social data analysis course @DTU created for assignment 2.
-baseurl: "socialdata2023-assignment2" # the subpath of your site, e.g. /blog
-url: "https://jens-create.github.io/socialdata2023-assignment2" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jens-create.github.io/socialdata2023-assignment2"
+
+#for github pages - whenever you push to the repo below line should be uncommented.
+baseurl: "socialdata2023-assignment2"
+
+#for local development - only change temporarily.
 #baseurl: ""
 
 # Build settings
