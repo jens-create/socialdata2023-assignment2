@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: San Francisco Data
-author: s183568, s18XXXX, s18XXXX
+author: s183568, s180857, s18430XXXXXXXX
 page_title: A visual story about the San Francisco crime data.
 description: A webpage for the social data analysis course @DTU created for assignment 2.
 url: "https://jens-create.github.io/socialdata2023-assignment2"

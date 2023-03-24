@@ -1,6 +1,6 @@
 ---
 layout: page
-title: San Francisco Police Department:\n Prioritazation Program 2018-2023.
+title: San Francisco Police Department - Prioritazation Program 2018-2023.
 ---
 
 In recent years, San Francisco Police Department (SFPD) has struggled to allocate ressources efficiently and adequately for controlling criminal activities in the city. 
