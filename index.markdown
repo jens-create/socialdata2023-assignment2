@@ -3,7 +3,7 @@ layout: page
 title: San Francisco Police Department.
 ---
 
-** - Prioritazation Program 2018-2023 **
+**- A 5-YEAR PRIORITIZATION PROGRAM 2018-2023**
 
 In recent years, San Francisco Police Department (SFPD) has struggled to allocate ressources efficiently and adequately for controlling criminal activities in the city. 
 To overcome this challenge, the Social Data Dream Team conducted an analysis using criminal data records from SFPD in the period of 2003-2017 to provide insights into typical patterns and the development of crime. 
