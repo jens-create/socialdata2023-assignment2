@@ -28,7 +28,7 @@ In previous analyses, Ingleside has mistakenly been perceived as the most proble
 For this analysis the crime frequencies have been normalized by the poppulation of the corresponding district. 
 
 
-
+{% include map.html %}
 
 
 Markdown is supported:
