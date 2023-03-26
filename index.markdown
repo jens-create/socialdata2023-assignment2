@@ -38,14 +38,8 @@ Markdown is supported:
 2+2
 ```
 
-
-Include a png file.
-Add the 
-![image description](/images/screen1.png)
-
-
 Include a html plot (bokeh)
 
 Add the file.html in the _includes folder. In the test.html file we have to remove the first line: <!DOCTYPE html>, otherwise it will be displayed.
 
-{% include test.html %}
+{% include plot3.html %}
