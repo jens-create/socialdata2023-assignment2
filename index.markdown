@@ -17,9 +17,6 @@ As larceny/theft, vehicle theft, vandalism and burglary accounts for more than 9
 
 Below figure shows the historical development of crime frequency of each individual category within the two groups in addition to the overall development of both groups. 
 
-**Kunne vi gøre noget på farverne af kategorierne? jeg synes det er svært at se forskel på de forskellige**
-
-
 {% include time_series_plot.html %}
 <center> <em> Development of property- and violence-related crimes from 2003 to 2018. First two tabs shows how each category within property and violence crimes develops and the third shows the aggregated number of crimes for the two groups. </em> </center><br>
 
@@ -31,12 +28,9 @@ During the entire period, a significantly larger frequency of property-related c
 ## Critical Districts
 To allow the management of the SFPD to know which district of San Francisco to focus on, an analysis of the likelihood of crime per district is is carried out. To introduce the least bias in the findings, the crime frequency is normalized by dividing with the district population. **refence til hvor vi får ekstra data fra**.
 
-#As previously observed in the crime development over time, the total property-related records resemble a similar behaviour as to larceny/theft independently, which ... **Kan ikke gennemskues hvad der menes her? - at farverne på kortet for alle `property crimes` minder om farverne på kortet for `larceny/theft`? Er det ikke klart da de fleste crimes i property er larceny/theft? jeg stemmer for slet**
 
-
-**Der er et bug med plottet, så første gang man indlæser siden så er alle tre plots vist på samme tid**
 {% include map.html %}
-<center> <em> Cloropleth map showing the normalized number of *property-related*, *violence-related* and *larceny/theft* crimes for the San Francisco districts. </em> </center><br>
+<center> <em> Cloropleth map showing the normalized number of *property-related*, *violence-related* and *larceny/theft* crimes for the San Francisco districts. Depending on browser the plot may at first show all three cloropleth maps on top of each other - please actively select one of the options. </em> </center><br>
 
 
 Analyzing the crime occurrences relative to the population within each district shows that the critical challenge of larceny/theft is highly dominating in especially the Southern district and also in the adjacent districts; Central, Northern and Tenderloin. This is interesting. As these areas are the most populated areas of San Francisco the crime frequency is the heaviest 'normalized' by the high population number - but still these areas encounter the most crime. **Giver det mening hvad jeg skriver**? Interestingly, but expected, the larceny/theft crime category dominates the property-related crime group as the cloropeth maps of the two are very similar. It is also clear that the mentioned districts are most pre-dominant when it comes to violence-related crimes.
@@ -47,14 +41,16 @@ To further investigate when the police officers of the Southern, Central, Northe
 
 
 {% include plot3.html %}
+<center> <em> Normalized count for different crime categories within the two crime groups throughout the week. </em> </center><br>
 
-Looking at the property crimes it is clear that burglary have the most similar pattern compared to larceny/theft. They both experience the most 'activity' during the day hours and very little during the night. Vandalism and vehicle theft
-
-
-Vandalism and vehicle theft are 
+Looking at the property crimes it is clear that burglary have the most similar crime pattern compared to larceny/theft. They both experience the most 'activity' during the day hours and very little during the night. Vandalism and vehicle theft are somewhat similar but experiences a steady increase in crime frequency during the day, whereas the first two are more 'bell' shaped. The violence-related crimes are similar - they also increase during the day and peaks at midnight and in the weekend. Thus, if SFPD wishes to actively combat the larceny/theft crime category they can expect to also combat the burglary category.
 
 
-## Preliminary Strategy for SFPD
 
 
-It is a plus if you can back up some of your findings with external sources, such as news stories from the area, looking up which building is located at some set of lat,lon coordinates, or similar. (So when you see something happening at some time/place in the data, see if you can understand it more deeply by investigating outside the dataset.)
+## Strategy Proposal for SFPD
+
+The Social Data Dream Team proposes the following 5-year prioritization program for the management of San Francisco Police Department. The department should prioritize resources towards addressing property-related crimes, especially larceny/theft. The department should also consider allocating resources based on the occurrence of crime relative to the population within each district, with a particular focus on the Southern district and adjacent districts, including Central, Northern, and Tenderloin. In general, we advise the department to have a dynamic and data-driven approach to tackling criminal activities, and the department should continually monitor and adjust strategies based on changes in patterns and trends of criminal activity.
+
+
+**Are we doing this (from assignment description): It is a plus if you can back up some of your findings with external sources, such as news stories from the area, looking up which building is located at some set of lat,lon coordinates, or similar. (So when you see something happening at some time/place in the data, see if you can understand it more deeply by investigating outside the dataset.)** Do we care?
