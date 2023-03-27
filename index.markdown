@@ -13,7 +13,7 @@ The data set includes 2,084,466 incident records in total, and each incident is 
 ## Property- & Violence Related Crime
 The main focus of this analysis are two critical groups of activities: *property-related* and *violence-related* crimes respectively. Property-related crimes comprise burglary, vehicle theft, arson, larceny/theft, vandalism, trespass and trea. From 2003 until 2018 there has been recorded 812,501 property crimes. Violence-related crimes comprise sex offences (forcible), sex offences (non-forcible), assault and robbery, for which 225,089 records have been registered throughout the same period.
 
-As larceny/theft, vehicle theft, vandalism and burglary accounts for approximately 97% of the property crimes we choose to omit trea and arson from our analysis. Further, sex offences (non-forcible) only accounts for 0.01%, thus this is omitted from the violent crimes. 
+As larceny/theft, vehicle theft, vandalism and burglary accounts for approximately 97% of the property crimes we choose to omit trea and arson from our analysis. Further, sex offences (non-forcible) only accounts for 0.01% of the violent crimes, thus this is also omitted from our analysis. 
 
 Below figure shows the historical development of crime frequency of each individual category within the two groups in addition to the overall development of both groups. 
 
