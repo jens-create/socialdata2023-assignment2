@@ -26,7 +26,7 @@ During the entire period, a significantly larger frequency of property-related c
 
 
 ## Critical Districts
-To allow the management of the SFPD to know which district of San Francisco to focus on, an analysis of the likelihood of crime per district is carried out. To introduce the least bias in the findings, the crime frequency is normalized by dividing with the ([district population](https://www.prisonpolicy.org/origin/ca/2020/sanfrancisco_police.html)). 
+To allow the management of the SFPD to know which district of San Francisco to focus on, an analysis of the likelihood of crime per district is carried out. To introduce the least bias in the findings, the crime frequency is normalized by dividing with the [district population](https://www.prisonpolicy.org/origin/ca/2020/sanfrancisco_police.html). 
 
 {% include map.html %}
 <center> <em> Cloropleth map showing the normalized number of *property-related*, *violence-related* and *larceny/theft* crimes for the San Francisco districts. Depending on browser the plot may at first show all three cloropleth maps on top of each other - please actively select one of the options. </em> </center><br>
