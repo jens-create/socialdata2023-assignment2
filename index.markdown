@@ -3,6 +3,8 @@ layout: page
 title: A 5-YEAR PRIORITIZATION PROGRAM 2018-2023
 ---
 
+The code generating the three plots on this page can be found [here](https://github.com/jens-create/socialdata2023-assignment2/blob/main/Assignment2_plots.ipynb). 
+
 In recent years, San Francisco Police Department (SFPD) has struggled to allocate resources efficiently and adequately for controlling criminal activities in the city. 
 To overcome this challenge, the Social Data Dream Team conducted an analysis using criminal data records from SFPD in the period of 2003-2017 to provide insights into typical patterns and the development of crime. The results of the analysis set the foundation for a new prioritization program that will run the coming five years, 2018-2023.
 
