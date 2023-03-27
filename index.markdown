@@ -11,9 +11,7 @@ The data set includes 2,084,466 incident records in total, and each incident is 
 ## Property- & Violence Related Crime
 The main focus of this analysis are two critical groups of activities: *property-related* and *violence-related* crimes respectively. Property-related crimes comprise burglary, vehicle theft, arson, larceny/theft, vandalism, trespass and trea. From 2003 until 2018 there has been recorded 812,501 property crimes. Violence-related crimes comprise sex offences (forcible), sex offences (non-forcible), assault and robbery, for which 225,089 records have been registered throughout the same period.
 
-As larceny/theft, vehicle theft, vandalism and burglary accounts for more than 90% of the crimes we choose to omit trea and arson from our analysis. 
-
-**I THINK WE SHOULD DO THIS (above). Så behøver vi ikke at lave en normaliseret time plot, og vores story handler alligevel om larceny - særligt trea ser også meget dum/sjov ud i vores sidste plot. **
+As larceny/theft, vehicle theft, vandalism and burglary accounts for approximately 97% of the propery crimes we choose to omit trea and arson from our analysis. Further, sex offences (non-forcible) only accounts for 0.01%, thus this is omitted from the violent crimes. 
 
 Below figure shows the historical development of crime frequency of each individual category within the two groups in addition to the overall development of both groups. 
 
@@ -26,7 +24,7 @@ During the entire period, a significantly larger frequency of property-related c
 
 
 ## Critical Districts
-To allow the management of the SFPD to know which district of San Francisco to focus on, an analysis of the likelihood of crime per district is is carried out. To introduce the least bias in the findings, the crime frequency is normalized by dividing with the district population. **refence til hvor vi får ekstra data fra**.
+To allow the management of the SFPD to know which district of San Francisco to focus on, an analysis of the likelihood of crime per district is carried out. To introduce the least bias in the findings, the crime frequency is normalized by dividing with the district population. **refence til hvor vi får ekstra data fra**.
 
 
 {% include map.html %}
