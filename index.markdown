@@ -41,9 +41,14 @@ To further investigate when the police officers of the Southern, Central, Northe
 {% include plot3.html %}
 <center> <em> Occurences of crimes within the two crime groups throughout the week in the Southern, Central, Northern and Tenderloin districts. </em> </center><br>
 
+Looking at the property crimes vehicle theft and vandalism have a similar crime pattern compated to larcency/theft. Looking at the larceny/theft crimes the activity is more or less the same throughout the week, with the exception of sundays, where the activity is a bit lower. Thoughout a day, there is an increasing activity that reaches its peak in the evening around 8PM. Consequently, the police should strengthen its forces monday to saturday during the evening. Thus, if SFPD wishes to actively combat the larceny/theft crime category should strengthen its forces monday to saturday during the evening. By during this, they can expect to also combat the vehicle theft and vandalism crimes. Looking at burglary we do not see as big peaks as with the other crime types. There is still a peak around 8PM, but also around 2PM. These are typically times where people are out of the house, which makes people more vulnerable to burglary.  
+
+Looking at the violent crimes there is a general tendency for a higher activity during friday and saturdays. Intuitively this makes sense, as this is often times where people are out having a drink or two, making them more vulnerable. Monday to thursday the acitivy for assult is somewhat bell shaped around 8PM, which was also a peak time for the property crimes. The activity for robbery have a more steady increase that peaks around midnight. 
+
+In conclusion, SFPD should strengthen its forces during the evening and especially during fridays and saturdays if they want to compat violence crimes. 
+
+**OLD - slet alt??**.
 Looking at the property crimes it is clear that burglary have the most similar crime pattern compared to larceny/theft. They both experience the most 'activity' during the day hours and very little during the night. Vandalism and vehicle theft are somewhat similar but experiences a steady increase in crime frequency during the day, whereas the first two are more 'bell' shaped. The violence-related crimes are similar - they also increase during the day and peaks at midnight and in the weekend. Thus, if SFPD wishes to actively combat the larceny/theft crime category they can expect to also combat the burglary category.
-
-
 
 
 ## Strategy Proposal for SFPD
