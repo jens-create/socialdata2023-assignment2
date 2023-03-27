@@ -47,13 +47,6 @@ Looking at the violent crimes there is a general tendency for a higher activity 
 
 In conclusion, SFPD should strengthen its forces during the evening and especially during fridays and saturdays if they want to compat violence crimes. 
 
-**OLD - slet alt??**.
-Looking at the property crimes it is clear that burglary have the most similar crime pattern compared to larceny/theft. They both experience the most 'activity' during the day hours and very little during the night. Vandalism and vehicle theft are somewhat similar but experiences a steady increase in crime frequency during the day, whereas the first two are more 'bell' shaped. The violence-related crimes are similar - they also increase during the day and peaks at midnight and in the weekend. Thus, if SFPD wishes to actively combat the larceny/theft crime category they can expect to also combat the burglary category.
-
-
 ## Strategy Proposal for SFPD
 
 The Social Data Dream Team proposes the following 5-year prioritization program for the management of San Francisco Police Department. The department should prioritize resources towards addressing property-related crimes, especially larceny/theft. The department should also consider allocating resources based on the occurrence of crime relative to the population within each district, with a particular focus on the Southern district and adjacent districts, including Central, Northern, and Tenderloin. In general, we advise the department to have a dynamic and data-driven approach to tackling criminal activities, and the department should continually monitor and adjust strategies based on changes in patterns and trends of criminal activity.
-
-
-**Are we doing this (from assignment description): It is a plus if you can back up some of your findings with external sources, such as news stories from the area, looking up which building is located at some set of lat,lon coordinates, or similar. (So when you see something happening at some time/place in the data, see if you can understand it more deeply by investigating outside the dataset.)** Do we care?
