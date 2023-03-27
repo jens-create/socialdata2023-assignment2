@@ -18,9 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: San Francisco Data
+title: San Francisco Police Department
 author: s183568, s180857, s184304
-page_title: A visual story about the San Francisco crime data.
 description: A webpage for the social data analysis course @DTU created for assignment 2.
 url: "https://jens-create.github.io/socialdata2023-assignment2"
 
